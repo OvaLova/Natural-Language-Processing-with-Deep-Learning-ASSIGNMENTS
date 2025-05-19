@@ -1,5 +1,19 @@
+# Ignore all __pycache__ directories
 __pycache__/
+**/__pycache__/
+
+# Ignore all .pyc files
 *.pyc
+**/*.pyc
+
+# Ignore VSCode config folders
 .vscode/
+**/.vscode/
+
+# Ignore Mac system files
+.DS_Store
+**/.DS_Store
+
+# Ignore submission scripts
 collect_submission.bat
 collect_submission.sh
