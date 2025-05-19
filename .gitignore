@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.vscode/
+collect_submission.bat
+collect_submission.sh
